@@ -1,0 +1,22 @@
+{
+    "name": "muxin/muxin-test",
+    "description": "test",
+    "type": "library",
+    "require": {
+        "php": "^7.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xiaobaiwangshi",
+            "email": "1930774389@.qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "MuxinFrameWork":"src/"
+        }
+    }
+}
